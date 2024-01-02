@@ -1,10 +1,10 @@
 {
-    "editor.fontSize": 12,
+    "editor.fontSize": 11,
     "editor.scrollbar.horizontalScrollbarSize": 10,
     "editor.scrollbar.verticalScrollbarSize": 10,
-    "editor.suggestFontSize": 12,
-    "scm.inputFontSize": 12,
-    "markdown.preview.fontSize": 12,
-    "tailwindCSS.rootFontSize": 12,
+    "editor.suggestFontSize": 10,
+    "scm.inputFontSize": 11,
+    "markdown.preview.fontSize": 11,
+    "tailwindCSS.rootFontSize": 11,
     "workbench.colorTheme": "Default Light Modern"
 }
